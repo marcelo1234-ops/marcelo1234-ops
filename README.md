@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<p id="mensagem" style="font-size: 3em;">
+<p id="mensagem" style="font-size: 3em; color:#A52A2A;">
   eu dedico essa msg para a pessoa que mudou minha vida ao todo e me faz feliz a todo estante<br>
   e me faz sentir bem com um simples sorriso ou um simples toque.<br>
   eu te amo de um jeito que nem eu sei explicar
