@@ -54,4 +54,17 @@
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2NrZmVpMm9uanRyYjRjam1kYzg2OHNwM21hYnZlYzB5Y3E2MXlwdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BWYS3xLAYVrQWSqrzj/giphy.webp" alt="Imagem 1" id="img1" style="cursor: pointer;" width="200">
 
 <img src="https://github.com/user-attachments/assets/c0bb3e43-1c58-47e4-950e-a30e2f4e4da6" alt="Imagem 2" id="img2" style="display: none;" width="200">
-  
+
+  <img 
+src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2NrZmVpMm9uanRyYjRjam1kYzg2OHNwM21hYnZlYzB5Y3E2MXlwdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BWYS3xLAYVrQWSqrzj/giphy.webp" 
+  alt="Imagem 1" 
+  id="img1" 
+  style="cursor: pointer;" 
+  width="200">
+
+<img 
+  src="https://github.com/user-attachments/assets/c0bb3e43-1c58-47e4-950e-a30e2f4e4da6" 
+  alt="Imagem 2" 
+  id="img2" 
+  style="display: none;" 
+  width="200">
