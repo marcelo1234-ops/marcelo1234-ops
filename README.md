@@ -46,8 +46,7 @@
   }
 </style>
 
+<img src="/mnt/data/899b56e0-6cba-4851-954a-1330907744dd.png" alt="Imagem 1" id="img1" style="cursor: pointer;" width="200">
 
-
-
-
+<img src="[IMAGEM2_URL_AQUI](https://github.com/user-attachments/assets/c0bb3e43-1c58-47e4-950e-a30e2f4e4da6)" alt="Imagem 2" id="img2" style="display: none;" width="200">
   
