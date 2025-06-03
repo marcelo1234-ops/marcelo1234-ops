@@ -20,14 +20,15 @@
   const btn = document.getElementById('btnImagem');
   btn.onclick = () => {
     btn.innerHTML = `
-1. seu rosto<br>
-2. sua boca<br>
-3. seu cabelo<br>
-4. você todinha de ponta a ponta<br>
-você é minha Deusa, meu motivo de vida<br>
-não sei como fiquei vivo tanto tempo sem te conhecer.<br>
-eu sei que não é uma mensagem tão bonita,<br>
-mas meio que eu programei esse site sem saber nada de programação.<br>
+      <div style="font-size:3em;">
+        1. seu rosto<br>
+        2. sua boca<br>
+        3. seu cabelo<br>
+        4. você todinha de ponta a ponta<br>
+        você é minha Deusa, meu motivo de vida<br>
+        não sei como fiquei vivo tanto tempo sem te conhecer.<br>
+        eu sei que não é uma mensagem tão bonita,<br>
+        mas meio que eu programei esse site sem saber nada de programação.<br>
     `;
   };
 </script>
