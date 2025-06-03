@@ -35,6 +35,17 @@
   };
 </script>
 
+<style>
+  body {
+    background-image: url('https://wallpapers.com/images/high/mitsuha-and-taki-romance-anime-portrait-u9tpojm5tx1pfdhc.webp');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+  }
+</style>
+
+
 
 
 
