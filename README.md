@@ -9,7 +9,8 @@
 </p>
  <div class="gif-container">
     <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzJiNjQ4bThueXFsOTBqazc0ZHZhZDFoc2E1ejBvbWFycm9xeWdqNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/c76IJLufpNwSULPk77/giphy.webp" alt="GIF 1" width="200"> 
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzRpaTQ2eWNybGcyenp4cG9pNGt3bjJlN2RoYjYzNWZydmptcDI0cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kZqbBT64ECtjy/giphy.webp" alt="GIF 2" width="200">
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzRpaTQ2eWNybGcyenp4cG9pNGt3bjJlN2RoYjYzNWZydmptcDI0cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kZqbBT64ECtjy/giphy.webp" alt="GIF 2" width="400
+    ">
   </div>
 
 <button id="btnImagem" style="border:none; background:none; cursor:pointer; padding:0;">
@@ -20,15 +21,16 @@
   const btn = document.getElementById('btnImagem');
   btn.onclick = () => {
     btn.innerHTML = `
-      <div style="font-size:3em;">
-        1. seu rosto<br>
-        2. sua boca<br>
-        3. seu cabelo<br>
-        4. você todinha de ponta a ponta<br>
-        você é minha Deusa, meu motivo de vida<br>
-        não sei como fiquei vivo tanto tempo sem te conhecer.<br>
-        eu sei que não é uma mensagem tão bonita,<br>
-        mas meio que eu programei esse site sem saber nada de programação.<br>
+   <div style="font-size:3em; color:#800000;">
+  1. seu rosto<br>
+  2. sua boca<br>
+  3. seu cabelo<br>
+  4. você todinha de ponta a ponta<br>
+  você é minha Deusa, meu motivo de vida<br>
+  não sei como fiquei vivo tanto tempo sem te conhecer.<br>
+  eu sei que não é uma mensagem tão bonita,<br>
+  mas meio que eu programei esse site sem saber nada de programação.<br>
+</div>
     `;
   };
 </script>
