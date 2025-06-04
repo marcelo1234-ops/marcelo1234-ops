@@ -55,22 +55,7 @@
 
 
 
-
-
-
-
-
-
-<button id="btnImagem">
-    <img 
-      src="https://media1.giphy.com/media/Lqx1czoPLTQg3I68d1/200.webp?cid=ecf05e47z454unt0t2taoani1prxpvpevfvarmqih97yfo8d&ep=v1_stickers_search&rid=200.webp&ct=s" 
-      alt="Botão imagem" 
-      id="imgBotao"
-      width="200"
-    />
-  </button>
-
-  <div id="texto">
+<div id="texto">
     Meus presentes que eu guardo só pra mim.<br>
     Não é egoísmo e também não significa que sou tarado,<br>
     mas significa que eu guardo por amor.<br>
@@ -79,17 +64,7 @@
     Quero muito que a gente um dia se case.
   </div>
 
-  <img 
-    src="https://github.com/user-attachments/assets/c0bb3e43-1c58-47e4-950e-a30e2f4e4da6" 
-    alt="Imagem 2" 
-    id="img2"
-    class="imagem-escondida">
-
-  <img 
-    src="https://github.com/user-attachments/assets/c8b59094-443a-4e4d-937e-8c1057177820" 
-    alt="Imagem 3" 
-    id="img3"
-    class="imagem-escondida" >
+  
 
   <img
     src="https://github.com/user-attachments/assets/6aaf69fc-b43c-42cf-a98a-8c3be2556199"
@@ -97,25 +72,30 @@
     id="img4"
     class="imagem-escondida" >
 
-  <script>
-    const btn = document.getElementById('btnImagem');
-    const imgBotao = document.getElementById('imgBotao');
+<img 
+  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2NrZmVpMm9uanRyYjRjam1kYzg2OHNwM21hYnZlYzB5Y3E2MXlwdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BWYS3xLAYVrQWSqrzj/giphy.webp" 
+  alt="Imagem 1" 
+  id="img1" 
+  style="cursor: pointer;" 
+  width="200">
 
-    btn.addEventListener('click', () => {
-      // Troca a imagem do botão para uma imagem diferente (exemplo: a imagem 1)
-      imgBotao.src = "https://media1.giphy.com/media/BWYS3xLAYVrQWSqrzj/giphy.webp";
+<img 
+  src="https://github.com/user-attachments/assets/c0bb3e43-1c58-47e4-950e-a30e2f4e4da6" 
+  alt="Imagem 2" 
+  id="img2" 
+  style="display: none;" 
+  width="200">
 
-      // Mostrar texto e imagens escondidas
-      document.getElementById('texto').style.display = 'block';
-      document.getElementById('img2').style.display = 'inline-block';
-      document.getElementById('img3').style.display = 'inline-block';
-      document.getElementById('img4').style.display = 'inline-block';
+<script>
+  const img1 = document.getElementById('img1');
+  const img2 = document.getElementById('img2');
 
-      // Opcional: desabilitar botão após o clique para evitar múltiplos cliques
-      btn.disabled = true;
-      btn.style.cursor = 'default';
-    });
-  </script>
+  img1.addEventListener('click', () => {
+    img1.style.display = 'none';
+    img2.style.display = 'inline';
+  });
+</script>
+
 
 
 
