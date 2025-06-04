@@ -66,11 +66,7 @@
 
   
 
-  <img
-    src="https://github.com/user-attachments/assets/6aaf69fc-b43c-42cf-a98a-8c3be2556199"
-    alt="Imagem 4"
-    id="img4"
-    class="imagem-escondida" >
+ 
 
 <img 
   src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2NrZmVpMm9uanRyYjRjam1kYzg2OHNwM21hYnZlYzB5Y3E2MXlwdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BWYS3xLAYVrQWSqrzj/giphy.webp" 
@@ -86,13 +82,22 @@
   style="display: none;" 
   width="200">
 
+  <img 
+  src="https://github.com/user-attachments/assets/6aaf69fc-b43c-42cf-a98a-8c3be2556199" 
+  alt="Imagem 3" 
+  id="img3" 
+  style="display: none;" 
+  width="200">
+
 <script>
   const img1 = document.getElementById('img1');
   const img2 = document.getElementById('img2');
+  const img2 = document.getElementById('img3');
 
   img1.addEventListener('click', () => {
     img1.style.display = 'none';
     img2.style.display = 'inline';
+    img3.style.disply =   'inline';
   });
 </script>
 
