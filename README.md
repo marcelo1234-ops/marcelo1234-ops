@@ -42,7 +42,7 @@
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
-   background-position: center top -50px;
+   background-position: center top -0px;
   }
 </style>
 
