@@ -76,8 +76,7 @@
       src="https://media1.giphy.com/media/BWYS3xLAYVrQWSqrzj/giphy.webp" 
       alt="Clique para revelar"
       title="Clique para mostrar tudo"
-      width="200"
-    >
+      width="200" >
   </button>
 
 
