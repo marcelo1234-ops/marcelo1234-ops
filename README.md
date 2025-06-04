@@ -3,8 +3,8 @@
 <body>
 
 <p id="mensagem" style="font-size: 3em; color:#A52A2A;">
-  eu dedico essa msg para a pessoa que mudou minha vida ao todo e me faz feliz a todo estante<br>
-  e me faz sentir bem com um simples sorriso ou um simples toque.<br>
+  eu dedico essa msg para a pessoa que mudou minha vida ao todo e me faz feliz a todo estante <br>
+  e me faz sentir bem com um simples sorriso ou um simples toque. <br>
   eu te amo de um jeito que nem eu sei explicar
 </p>
  <div class="gif-container">
@@ -22,14 +22,14 @@
   btn.onclick = () => {
     btn.innerHTML = `
    <div style="font-size:3em; color:#800000;">
-  1. seu rosto<br>
-  2. sua boca<br>
-  3. seu cabelo<br>
-  4. você todinha de ponta a ponta<br>
-  você é minha Deusa, meu motivo de vida<br>
+  1. seu rosto <br>
+  2. sua boca <br>
+  3. seu cabelo <br>
+  4. você todinha de ponta a ponta <br>
+  você é minha Deusa, meu motivo de vida <br>
   não sei como fiquei vivo tanto tempo sem te conhecer.<br>
-  eu sei que não é uma mensagem tão bonita,<br>
-  mas meio que eu programei esse site sem saber nada de programação.<br>
+  eu sei que não é uma mensagem tão bonita, <br>
+  mas meio que eu programei esse site sem saber nada de programação. <br>
 </div>
     `;
   };
@@ -53,7 +53,9 @@
  abra quando tiver so
 </p>
 
+<br>
 
+<br>
 
 
 
@@ -95,12 +97,12 @@
 </script>
 
 
-<p id="mensagem" style="font-size: 4em; color:#A52A2A;">
-    Meus presentes que eu guardo só pra mim.<br>
-    Não é egoísmo e também não significa que sou tarado,<br>
-    mas significa que eu guardo por amor.<br>
-    Sinceramente, eu quero que isso dure muito.<br>
-    Se possível, até o fim das nossas vidas.<br>
+<p id="mensagem" style="font-size: 4em; color:#00000;">
+    Meus presentes que eu guardo só pra mim. <br>
+    Não é egoísmo e também não significa que sou tarado, <br>
+    mas significa que eu guardo por amor. <br>
+    Sinceramente, eu quero que isso dure muito., <br>
+    Se possível, até o fim das nossas vidas. <br>
     Quero muito que a gente um dia se case.
   </p>
 
