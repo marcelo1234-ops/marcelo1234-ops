@@ -45,6 +45,12 @@
    background-position: center top -50px;
   }
 </style>
+</head>
+
+<body>
+ <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" 
+    src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1104643073&color=%23ff5500&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true">
+  </iframe>
 
 
 <p id="mensagem" style="font-size: 3em; color:#A52A2A;">
@@ -53,12 +59,34 @@
 
 
 
+
+
+
+
+
+
+
+
+
 <img 
-  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2NrZmVpMm9uanRyYjRjam1kYzg2OHNwM21hYnZlYzB5Y3E2MXlwdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BWYS3xLAYVrQWSqrzj/giphy.webp" 
+  src="https://media1.giphy.com/media/BWYS3xLAYVrQWSqrzj/giphy.webp" 
   alt="Imagem 1" 
   id="img1" 
-  style="cursor: pointer;" 
-  width="200">
+  title="Clique para mostrar Imagens 2, 3 e 4">
+
+
+<div id="texto" style="font-size: 2em;">
+  meus presentes q eu guardo pra ter so pra mim<br>
+  não e egoismo e tambem n significa que sou tarado<br>
+  mais significa que eu guardo por amor<br>
+  cinseramente eu quero que isso dure muito<br>
+  se possivel ate o fim das nossas vidas quero muito q nois um dia nos case 
+</div>
+
+
+
+
+
 
 <img 
   src="https://github.com/user-attachments/assets/c0bb3e43-1c58-47e4-950e-a30e2f4e4da6" 
@@ -73,5 +101,10 @@
   id="img3" 
   title="Imagem 3">
 
+  <img
+  src="https://github.com/user-attachments/assets/6aaf69fc-b43c-42cf-a98a-8c3be2556199"
+  alt="Imagem 4"
+  id="img4"
+  title="Imagem 4">
 
 
