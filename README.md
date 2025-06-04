@@ -64,45 +64,42 @@
 
 
 
-<img 
-  src="https://media1.giphy.com/media/BWYS3xLAYVrQWSqrzj/giphy.webp" 
-  alt="Imagem 1" 
-  id="img1" 
-  title="Clique para mostrar Imagens 2, 3 e 4">
+ <img 
+    src="https://media1.giphy.com/media/BWYS3xLAYVrQWSqrzj/giphy.webp" 
+    alt="Imagem 1" 
+    id="img1" 
+    title="Clique para mostrar Imagens 2, 3 e 4"
+    style="cursor: pointer; width: 200px;">
 
-
-<div id="texto" style="font-size: 3em;">
-  meus presentes q eu guardo pra ter so pra mim<br>
-  não e egoismo e tambem n significa que sou tarado<br>
-  mais significa que eu guardo por amor<br>
-  cinseramente eu quero que isso dure muito<br>
-  se possivel ate o fim das nossas vidas quero muito q nois um dia nos case 
-</div>
-
-
-
-
-
+<div id="texto">
+    Meus presentes que eu guardo só pra mim.<br>
+    Não é egoísmo e também não significa que sou tarado,<br>
+    mas significa que eu guardo por amor.<br>
+    Sinceramente, eu quero que isso dure muito.<br>
+    Se possível, até o fim das nossas vidas.<br>
+    Quero muito que a gente um dia se case.
+  </div>
 
 <img 
-  src="https://github.com/user-attachments/assets/c0bb3e43-1c58-47e4-950e-a30e2f4e4da6" 
-  alt="Imagem 2" 
-  id="img2" 
-  style="display: none;" 
-  width="200">
+    src="https://github.com/user-attachments/assets/c0bb3e43-1c58-47e4-950e-a30e2f4e4da6" 
+    alt="Imagem 2" 
+    id="img2" 
+    style="display: none;" 
+    width="200">
 
-<img 
-  src="https://github.com/user-attachments/assets/c8b59094-443a-4e4d-937e-8c1057177820" 
-  alt="Imagem 3" 
-  id="img3" 
- style="display: none;" 
-  width="200">
+  <img 
+    src="https://github.com/user-attachments/assets/c8b59094-443a-4e4d-937e-8c1057177820" 
+    alt="Imagem 3" 
+    id="img3" 
+    style="display: none;" 
+    width="200">
 
   <img
-  src="https://github.com/user-attachments/assets/6aaf69fc-b43c-42cf-a98a-8c3be2556199"
-  alt="Imagem 4"
-  id="img4"
-  style="display: none;" 
-  width="200">
+    src="https://github.com/user-attachments/assets/6aaf69fc-b43c-42cf-a98a-8c3be2556199"
+    alt="Imagem 4"
+    id="img4"
+    style="display: none;" 
+    width="200">
+
 
 
