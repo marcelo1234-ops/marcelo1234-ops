@@ -64,12 +64,13 @@
 
 
 
- <img 
-    src="https://media1.giphy.com/media/BWYS3xLAYVrQWSqrzj/giphy.webp" 
-    alt="Imagem 1" 
-    id="img1" 
-    title="Clique para mostrar Imagens 2, 3 e 4"
-    style="cursor: pointer; width: 200px;">
+  <button class="botao-imagem" onclick="mostrarTudo()">
+    <img 
+      src="https://media1.giphy.com/media/BWYS3xLAYVrQWSqrzj/giphy.webp" 
+      alt="Clique para revelar"
+      title="Clique para mostrar tudo"
+      width="200">
+  </button>
 
 <div id="texto">
     Meus presentes que eu guardo só pra mim.<br>
@@ -84,22 +85,33 @@
     src="https://github.com/user-attachments/assets/c0bb3e43-1c58-47e4-950e-a30e2f4e4da6" 
     alt="Imagem 2" 
     id="img2" 
-    style="display: none;" 
+    class="imagem-escondida" 
     width="200">
 
   <img 
     src="https://github.com/user-attachments/assets/c8b59094-443a-4e4d-937e-8c1057177820" 
     alt="Imagem 3" 
     id="img3" 
-    style="display: none;" 
+    class="imagem-escondida" 
     width="200">
 
   <img
     src="https://github.com/user-attachments/assets/6aaf69fc-b43c-42cf-a98a-8c3be2556199"
     alt="Imagem 4"
     id="img4"
-    style="display: none;" 
+    class="imagem-escondida" 
     width="200">
 
+ <script>
+    function mostrarTudo() {
+      document.getElementById('texto').style.display = 'block';
+      document.getElementById('img2').style.display = 'inline';
+      document.getElementById('img3').style.display = 'inline';
+      document.getElementById('img4').style.display = 'inline';
+    }
+  </script>
+
+</body>
+</html>
 
 
