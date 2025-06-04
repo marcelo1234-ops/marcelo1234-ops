@@ -67,13 +67,11 @@
   style="display: none;" 
   width="200">
 
-<script>
-  const img1 = document.getElementById('img1');
-  const img2 = document.getElementById('img2');
+<img 
+  src="https://github.com/user-attachments/assets/c8b59094-443a-4e4d-937e-8c1057177820" 
+  alt="Imagem 3" 
+  id="img3" 
+  title="Imagem 3">
 
-  img1.addEventListener('click', () => {
-    img1.style.display = 'none';
-    img2.style.display = 'inline';
-  });
-</script>
+
 
