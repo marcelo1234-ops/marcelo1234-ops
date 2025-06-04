@@ -55,14 +55,7 @@
 
 
 
-<p id="mensagem" style="font-size: 4em; color:#A52A2A;">
-    Meus presentes que eu guardo só pra mim.<br>
-    Não é egoísmo e também não significa que sou tarado,<br>
-    mas significa que eu guardo por amor.<br>
-    Sinceramente, eu quero que isso dure muito.<br>
-    Se possível, até o fim das nossas vidas.<br>
-    Quero muito que a gente um dia se case.
-  </p>
+
 
   
 
@@ -102,6 +95,13 @@
 </script>
 
 
-
+<p id="mensagem" style="font-size: 4em; color:#A52A2A;">
+    Meus presentes que eu guardo só pra mim.<br>
+    Não é egoísmo e também não significa que sou tarado,<br>
+    mas significa que eu guardo por amor.<br>
+    Sinceramente, eu quero que isso dure muito.<br>
+    Se possível, até o fim das nossas vidas.<br>
+    Quero muito que a gente um dia se case.
+  </p>
 
 
