@@ -73,21 +73,21 @@
   alt="Imagem 7"
   id="img7"
   style="cursor: pointer;"
-  width="200">
+  width="420">
 
 <img
   src="https://github.com/user-attachments/assets/c0bb3e43-1c58-47e4-950e-a30e2f4e4da6"
   alt="Imagem 8"
   id="img8"
   style="display: none;"
-  width="200">
+  width="400">
 
 <img
   src="https://github.com/user-attachments/assets/6aaf69fc-b43c-42cf-a98a-8c3be2556199"
   alt="Imagem 9"
   id="img9"
   style="display: none;"
-  width="200">
+  width="400">
 
 <script>
   const img7 = document.getElementById('img7');
