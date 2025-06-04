@@ -45,15 +45,11 @@
    background-position: center top -50px;
   }
 </style>
-</head>
-
-<body>
- <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" 
-    src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1104643073&color=%23ff5500&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true">
-  </iframe>
 
 
-<p id="mensagem" style="font-size: 3em; color:#A52A2A;">
+
+
+<p id="mensagem" style="font-size: 5em; color:#A52A2A;">
  abra quando tiver so
 </p>
 
@@ -75,7 +71,7 @@
   title="Clique para mostrar Imagens 2, 3 e 4">
 
 
-<div id="texto" style="font-size: 2em;">
+<div id="texto" style="font-size: 3em;">
   meus presentes q eu guardo pra ter so pra mim<br>
   não e egoismo e tambem n significa que sou tarado<br>
   mais significa que eu guardo por amor<br>
@@ -99,12 +95,14 @@
   src="https://github.com/user-attachments/assets/c8b59094-443a-4e4d-937e-8c1057177820" 
   alt="Imagem 3" 
   id="img3" 
-  title="Imagem 3">
+ style="display: none;" 
+  width="200">
 
   <img
   src="https://github.com/user-attachments/assets/6aaf69fc-b43c-42cf-a98a-8c3be2556199"
   alt="Imagem 4"
   id="img4"
-  title="Imagem 4">
+  style="display: none;" 
+  width="200">
 
 
